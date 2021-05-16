@@ -6,12 +6,12 @@ Due to alleged academic dishonesty at Thomas High School, our previous analysis 
 
 ## Results 
 
-* **District Summary Changes
+* **District Summary Changes**
 
-  **Original Analysis
+  **Original Analysis**
   ![District Summary](https://user-images.githubusercontent.com/81761879/118407907-e6c15180-b650-11eb-8e02-c5b5f9dce0e8.PNG)
   
-  **Reanalysis
+  **Reanalysis**
   ![District Summary THS Out](https://user-images.githubusercontent.com/81761879/118407926-fb9de500-b650-11eb-8de5-331723ec043a.PNG)
  
   *  As evident in the images above, factoring out THS 9th graders very slightly reduced all score and passing % calculations with the exception of Average Reading Score which remained unchanged 
